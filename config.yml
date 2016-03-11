@@ -1,0 +1,25 @@
+# Hardcore Death Room v1.0
+# Made by cluter123
+# Support: Message me @ https://bukkit.org/members/cluter123.90802646/
+
+
+# How long the player is in the DeathRoom (in seconds) Give the permission: hcdr.time# - Where # is the time set below.
+# If the player does not have any of these permissions, then he is exempt from the death room. OR you could add the permission 'hcdr.exempt'
+time1: 10
+time2: 20
+time3: 30
+time4: 40
+time5: 50
+# Messages prefix
+prefix: '&a[HCDR]'
+deathMsg: '&cYou have been put into the death room'
+# Message sent to the player when the player is in the room and does a command.
+cmdErrorMsg: '&cYou may not do that while you are in this room.'
+# Message sent to the player when the player is in the room and breaks a block
+blockErrorMsg: '&cYou may not do that while you are in this room.'
+# Message sent to the player when the player is released.
+releaseMsg: '&cYou have been released.'
+
+
+# Do not touch - respawn area
+spawn:

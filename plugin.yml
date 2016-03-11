@@ -1,0 +1,26 @@
+main: me.cluter.hcdeath.Main
+name: HCDeathRoom
+version: 1.0
+author: cluter123
+
+commands:
+  hcdr:
+    description: Commands for HardCore Death Room.
+
+permissions:
+  hcdr.setspawn:
+    description: Allows you to set the spawn point for Hardcore Death Room.
+  hcdr.exempt:
+    description: Exempts you from going to the death room.
+  hcdr.release:
+    description: Allows you to release players.
+  hcdr.time1:
+    description: Time 1
+  hcdr.time2:
+    description: Time 2
+  hcdr.time3:
+    description: Time 3
+  hcdr.time4:
+    description: Time 4
+  hcdr.time5:
+    description: Time 5
